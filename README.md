@@ -22,4 +22,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=97249122&layout=compact&theme=palenight" /></p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=97249122&color=8E64D0" alt="97249122" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=97249122&color=blue" alt="97249122" /> </p>
