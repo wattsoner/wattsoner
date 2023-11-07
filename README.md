@@ -3,14 +3,14 @@
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=97249122&data=followers,repositories,stars,commits"></p>
 
 ```diff 
-💀 Age: 18.
-📬 Contacts: wattsoner#8944.
-🖥️ Favorite Coding Lang: Java.
+💀 Age: 19.
+📬 Contacts: discord @ 8068
+🖥️ Favorite Coding Lang: Java, C# & C++
 👾 Learning: C#, C++
-💼 Experience: 2 years (Java).
+💼 Experience: 2 years (Java), 1 years (c#) 6 months (c++).
 🌳 Hobbies: Playing games, TV & coding.
 
-📜 About me: Currently at University for Games Programming 
+📜 About me: Currently at University for Games Programming (Year 2)
 ```
   
 
