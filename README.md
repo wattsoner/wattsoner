@@ -20,6 +20,6 @@
 
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=wattsoner&show_icons=true&theme=palenight" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=97249122&layout=compact&theme=palenight" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wattsoner&layout=compact&theme=palenight" /></p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=wattsoner&color=blue" alt="wattsoner" /> </p>
