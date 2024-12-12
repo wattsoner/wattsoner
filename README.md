@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wattsoner/wattsoner/main/github-banner.png" /> 
+<img src="https://raw.githubusercontent.com/wattsoner/wattsoner/main/Banner.png" /> 
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=wattsoner&data=followers,repositories,stars,commits"></p>
 
