@@ -3,7 +3,7 @@
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=wattsoner&data=followers,repositories,stars,commits"></p>
 
 ```diff 
-💀 Age: 20
+💀 Age: 21
 📬 Contacts: discord @ 8068
 🖥️ Favorite Coding Lang: Java, C# & C++
 👾 Learning: C#, C++
